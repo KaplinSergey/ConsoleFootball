@@ -50,6 +50,7 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Sprites\Sprite.cs" />
+    <Compile Include="Sprites\Store.cs" />
     <Compile Include="Views\IView.cs" />
     <Compile Include="Views\MainView.cs" />
   </ItemGroup>
